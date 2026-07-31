@@ -45,6 +45,14 @@ p{
    width: auto;
 }
 
+.categoria-imagem{
+    display: flex;
+    justify-content: space-between;
+    overflow-x: auto;
+    gap: 5px
+
+}
+
 footer{
     color: aliceblue;
     margin-top: 5%;
