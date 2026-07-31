@@ -40,12 +40,8 @@ p{
     font-family: "Times New Roman";
 }
 
-.video{
-    margin-right: 10px;
-}
-
 .categoria-imagem img{
-   height: 140px;
+   height: 100px;
    width: auto;
 }
 
