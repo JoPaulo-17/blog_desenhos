@@ -44,12 +44,12 @@ p{
     margin-right: 10px;
 }
 
-.categoria-video img{
+.categoria-imagem img{
    height: 140px;
    width: auto;
 }
 
-.categoria-video{
+.categoria-imagem{
     display: flex;
     justify-content: space-between;
     overflow-x: auto;
