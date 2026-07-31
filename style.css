@@ -10,11 +10,58 @@ h1{
     text-align: center;
 }
 
-img{
-    width: 1350px;
-    height: 690px;
+body{
+    margin: 0px;
+    background-color: aqua;
 }
 
-body{
-    background-color: aqua;
+.menu{
+    padding-top: 80px;
+    padding-left: 80px;
+    display: flex;
+    justify-content:center;
+    gap: 10%;
+   
+}
+
+h1,h2{
+    color: white;
+    text-align: center;
+}
+
+p{
+    font-size: 40px;
+    font-family: "Times New Roman";
+   
+}
+
+.texto-resumo{
+    font-size: 20px;
+    font-family: "Times New Roman";
+}
+
+.video{
+    margin-right: 10px;
+}
+
+.categoria-video img{
+   height: 140px;
+   width: auto;
+}
+
+.categoria-video{
+    display: flex;
+    justify-content: space-between;
+    overflow-x: auto;
+    gap: 5px
+
+}
+
+footer{
+    color: aliceblue;
+    margin-top: 5%;
+    padding: 55px;
+    background-color: black;
+    border-top: 5px dotted;
+    border-color: rgb(238, 74, 74);
 }
