@@ -5,6 +5,10 @@ header{
     border-color: blue;
 }
 
+h1{
+    color: white;
+}
+
 img{
     width: 1350px;
     height: 690px;
