@@ -61,3 +61,7 @@ footer{
     border-top: 5px dotted;
     border-color: rgb(238, 74, 74);
 }
+
+button{
+    background-color: black;
+}
