@@ -42,7 +42,7 @@ p{
 
 .categoria-imagem img{
    height: auto;
-   width: 452px;
+   width: 100px;
 }
 
 .categoria-imagem{
@@ -61,5 +61,3 @@ footer{
     border-top: 5px dotted;
     border-color: rgb(238, 74, 74);
 }
-
-.mu
